@@ -11,11 +11,13 @@ It retrieves topic-related information using **SERP API**, scrapes article conte
 This tool is ideal for **HR teams, L&D departments, technical hiring rounds, internal corporate evaluation, and EdTech assessment platforms.**
 
 
+### Important: This tool uses a generative AI model so some of the generated MCQs may contain errors typicaly found in GenAI.
+
 
 ## 🚀 Features
 
 
-- Generates **50 MCQs automatically per topic**  
+- Generates **10 MCQs automatically per topic**  
 
 - Uses **SERP API** to fetch real-world content  
 
@@ -25,7 +27,9 @@ This tool is ideal for **HR teams, L&D departments, technical hiring rounds, int
 
 - Exports fully formatted **Word (.docx) question banks**  
 
-- Perfect for workplace-grade interview preparation  
+- Perfect for workplace-grade interview preparation or draft generation
+
+- If this test paper will be used in any official exam, please check the contents first, as errors typical in GenAI may be there.
 
 
 
@@ -35,13 +39,11 @@ This tool is ideal for **HR teams, L&D departments, technical hiring rounds, int
 | Suitable For | Not Designed For |
 |-------------|------------------|
 | Corporate interview prep | University exam question papers |
-| Technical hiring rounds | Student assignments |
-| HR/L&D assessments | Coaching material generation |
 | Internal skill evaluation | Semester tests |
 | EdTech integration | Basic academic quizzes |
 
 
-This tool is strictly for **industry-oriented interview difficulty**, not academic syllabus question setting.  
+This tool is for **industry-oriented interview difficulty**, not academic syllabus question setting.  
 
 
 

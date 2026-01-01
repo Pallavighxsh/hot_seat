@@ -5,13 +5,13 @@
 hot_seat is a Python-powered automated **MCQ (Multiple Choice Question) generator** built specifically for **technical & corporate hiring assessments**, not for college examination papers or student quizzes.
 
 
-It retrieves topic-related information using **SERP API**, scrapes article content, processes it through a **local Phi-3 Language Model**, and generates **50 professional interview MCQs per topic**, complete with an **answer key**, exporting them as **.docx files** for direct use.
+It retrieves topic-related information using **SERP API**, scrapes article content, processes it through a **local Phi-3 Language Model**, and generates **10 professional interview MCQs per topic**, complete with an **answer key**, exporting them as **.docx files** for direct use.
 
 
 This tool is ideal for **HR teams, L&D departments, technical hiring rounds, internal corporate evaluation, and EdTech assessment platforms.**
 
 
-### Important: This tool uses a generative AI model so some of the generated MCQs may contain errors typicaly found in GenAI.
+### Important: This tool uses a generative AI model, so some of the generated MCQs may contain errors typically found in GenAI.
 
 
 ## 🚀 Features
@@ -30,6 +30,8 @@ This tool is ideal for **HR teams, L&D departments, technical hiring rounds, int
 - Perfect for workplace-grade interview preparation or draft generation
 
 - If this test paper will be used in any official exam, please check the contents first, as errors typical in GenAI may be there.
+
+- Works best when generating 10 MCQ questions each for multiple topics. Create a cluster of topics in your area and enter them in topics.txt
 
 
 

@@ -11,7 +11,7 @@ It retrieves topic-related information using **SERP API**, scrapes article conte
 This tool is ideal for **HR teams, L&D departments, technical hiring rounds, internal corporate evaluation, and EdTech assessment platforms.**
 
 
-### Important: This tool uses a generative AI model, so some of the generated MCQs may contain errors typically found in GenAI. The question's answer key may be correct, but the question is a bit out of context. Check first!
+### ⚠️Important: This tool uses a generative AI model, so some of the generated MCQs may contain errors typically found in AI-generated material. Check first!
 
 
 ## 🚀 Features

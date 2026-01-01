@@ -11,7 +11,7 @@ It retrieves topic-related information using **SERP API**, scrapes article conte
 This tool is ideal for **HR teams, L&D departments, technical hiring rounds, internal corporate evaluation, and EdTech assessment platforms.**
 
 
-### Important: This tool uses a generative AI model, so some of the generated MCQs may contain errors typically found in GenAI.
+### Important: This tool uses a generative AI model, so some of the generated MCQs may contain errors typically found in GenAI. The question's answer key may be correct, but the question is a bit out of context. Check first!
 
 
 ## 🚀 Features
@@ -31,7 +31,7 @@ This tool is ideal for **HR teams, L&D departments, technical hiring rounds, int
 
 - If this test paper will be used in any official exam, please check the contents first, as errors typical in GenAI may be there.
 
-- Works best when generating 10 MCQ questions each for multiple topics. Create a cluster of topics in your area and enter them in topics.txt
+- Works best when generating 10 questions each for multiple topics. Create a cluster of topics in your area and enter them in topics.txt
 
 
 
